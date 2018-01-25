@@ -1,0 +1,2 @@
+# musicbot-playlist
+オートプレイリスト
